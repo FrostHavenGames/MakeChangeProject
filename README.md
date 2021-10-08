@@ -1,4 +1,4 @@
-# Cash Register
+# Cash Register Project
 
 ## Description
 This program is a simple cash register. You enter a price and it will calculate the change required. If you specify an incorrect amount of change it will let you know. The program keeps track of the amount of transactions and the amount of money from all the transactions.
